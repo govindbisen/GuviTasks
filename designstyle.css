@@ -1,0 +1,54 @@
+
+body{
+    margin: 0;
+}
+.topbar{
+background-color: yellowgreen;
+display: flex;
+justify-content: space-between;
+}
+
+.menu  > ul > li{
+padding-right: 25px;
+color: saddlebrown;
+}
+
+.menu >ul>li{
+    display:inline;
+    padding-left:25px;
+    padding-right: 25px;
+}
+
+.menu >ul > li > a:hover{
+    color:red
+}
+
+.menu > ul > li >a{
+    text-decoration: none;
+}
+
+.logo{
+    padding-left:20px;
+    padding-top: 11px;
+}
+.banner{
+height : 450px;
+overflow:hidden;
+background:url("http://cdn1.images.touristlink.com/repository/M/A/R/T/A/N/D/S/martand-sun-temple_1.jpg")
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container > div{
+    text-align: -webkit-center;
+    width:33%;
+}
+
+.pic{
+height:50px;
+width:50px;
+background-color: grey;
+border-radius: 50px;
+
+}
