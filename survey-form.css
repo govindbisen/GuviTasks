@@ -1,0 +1,18 @@
+.body{
+    background-color: gray;
+    float:left;
+    width:700px;
+    margin: auto;
+    border: coral;
+    padding: 10px;
+    align-content: center;
+    display: flex;
+}
+.radiobut 
+{
+    margin-left: 30px;
+}
+
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
