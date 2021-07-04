@@ -2,15 +2,14 @@
     background-color: gray;
     float:left;
     width:700px;
-    margin: auto;
+    margin: 100;
     border: coral;
-    padding: 10px;
     align-content: center;
     display: flex;
 }
 .radiobut 
 {
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 input[type="radio"]{
