@@ -1,0 +1,10 @@
+.cl1{
+    background-color: rgb(247, 236, 236);
+}
+
+.col-6
+{   display: flex;
+     font-size: 50px;
+    font-stretch: wider;
+    font-family: 'Zen Loop', cursive;
+}
